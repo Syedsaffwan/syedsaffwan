@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **git hub**
 
-- 👯 I’m looking to collaborate on **front end prijects**
+- 👯 I’m looking to collaborate on **front end projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
